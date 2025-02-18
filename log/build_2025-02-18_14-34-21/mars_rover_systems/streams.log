@@ -1,0 +1,24 @@
+[1.055s] Invoking command in '/home/user/ros2_ws/src/mars_rover_systems': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_systems/prefix_override:/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_systems build --build-base /home/user/ros2_ws/build/mars_rover_systems/build install --record /home/user/ros2_ws/build/mars_rover_systems/install.log --single-version-externally-managed install_data
+[1.448s] running egg_info
+[1.451s] writing ../../build/mars_rover_systems/mars_rover_systems.egg-info/PKG-INFO
+[1.451s] writing dependency_links to ../../build/mars_rover_systems/mars_rover_systems.egg-info/dependency_links.txt
+[1.451s] writing entry points to ../../build/mars_rover_systems/mars_rover_systems.egg-info/entry_points.txt
+[1.451s] writing requirements to ../../build/mars_rover_systems/mars_rover_systems.egg-info/requires.txt
+[1.451s] writing top-level names to ../../build/mars_rover_systems/mars_rover_systems.egg-info/top_level.txt
+[1.454s] reading manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+[1.456s] writing manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+[1.456s] running build
+[1.456s] running build_py
+[1.456s] running install
+[1.457s] running install_lib
+[1.459s] running install_data
+[1.459s] copying launch/two_rover_heartbeat.launch.py -> /home/user/ros2_ws/install/mars_rover_systems/share/mars_rover_systems
+[1.459s] running install_egg_info
+[1.462s] removing '/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems-0.0.0-py3.10.egg-info' (and everything under it)
+[1.463s] Copying ../../build/mars_rover_systems/mars_rover_systems.egg-info to /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems-0.0.0-py3.10.egg-info
+[1.465s] running install_scripts
+[1.493s] Installing heartbeat_executable script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+[1.493s] Installing heartbeat_executable_2 script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+[1.493s] Installing heartbeat_shutdown_executable script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+[1.494s] writing list of installed files to '/home/user/ros2_ws/build/mars_rover_systems/install.log'
+[1.530s] Invoked command in '/home/user/ros2_ws/src/mars_rover_systems' returned '0': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_systems/prefix_override:/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_systems build --build-base /home/user/ros2_ws/build/mars_rover_systems/build install --record /home/user/ros2_ws/build/mars_rover_systems/install.log --single-version-externally-managed install_data

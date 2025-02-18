@@ -1,0 +1,33 @@
+[0.955s] Invoking command in '/home/user/ros2_ws/src/mars_rover_systems': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_systems/prefix_override:/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_systems build --build-base /home/user/ros2_ws/build/mars_rover_systems/build install --record /home/user/ros2_ws/build/mars_rover_systems/install.log --single-version-externally-managed install_data
+[1.297s] running egg_info
+[1.300s] creating ../../build/mars_rover_systems/mars_rover_systems.egg-info
+[1.300s] writing ../../build/mars_rover_systems/mars_rover_systems.egg-info/PKG-INFO
+[1.301s] writing dependency_links to ../../build/mars_rover_systems/mars_rover_systems.egg-info/dependency_links.txt
+[1.301s] writing entry points to ../../build/mars_rover_systems/mars_rover_systems.egg-info/entry_points.txt
+[1.301s] writing requirements to ../../build/mars_rover_systems/mars_rover_systems.egg-info/requires.txt
+[1.301s] writing top-level names to ../../build/mars_rover_systems/mars_rover_systems.egg-info/top_level.txt
+[1.301s] writing manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+[1.304s] reading manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+[1.305s] writing manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+[1.305s] running build
+[1.305s] running build_py
+[1.305s] creating /home/user/ros2_ws/build/mars_rover_systems/build
+[1.306s] creating /home/user/ros2_ws/build/mars_rover_systems/build/lib
+[1.306s] creating /home/user/ros2_ws/build/mars_rover_systems/build/lib/mars_rover_systems
+[1.306s] copying mars_rover_systems/__init__.py -> /home/user/ros2_ws/build/mars_rover_systems/build/lib/mars_rover_systems
+[1.306s] running install
+[1.306s] running install_lib
+[1.307s] creating /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems
+[1.308s] copying /home/user/ros2_ws/build/mars_rover_systems/build/lib/mars_rover_systems/__init__.py -> /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems
+[1.308s] byte-compiling /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems/__init__.py to __init__.cpython-310.pyc
+[1.308s] running install_data
+[1.309s] creating /home/user/ros2_ws/install/mars_rover_systems/share/ament_index
+[1.309s] creating /home/user/ros2_ws/install/mars_rover_systems/share/ament_index/resource_index
+[1.309s] creating /home/user/ros2_ws/install/mars_rover_systems/share/ament_index/resource_index/packages
+[1.309s] copying resource/mars_rover_systems -> /home/user/ros2_ws/install/mars_rover_systems/share/ament_index/resource_index/packages
+[1.309s] copying package.xml -> /home/user/ros2_ws/install/mars_rover_systems/share/mars_rover_systems
+[1.310s] running install_egg_info
+[1.312s] Copying ../../build/mars_rover_systems/mars_rover_systems.egg-info to /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems-0.0.0-py3.10.egg-info
+[1.313s] running install_scripts
+[1.345s] writing list of installed files to '/home/user/ros2_ws/build/mars_rover_systems/install.log'
+[1.375s] Invoked command in '/home/user/ros2_ws/src/mars_rover_systems' returned '0': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_systems/prefix_override:/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_systems build --build-base /home/user/ros2_ws/build/mars_rover_systems/build install --record /home/user/ros2_ws/build/mars_rover_systems/install.log --single-version-externally-managed install_data

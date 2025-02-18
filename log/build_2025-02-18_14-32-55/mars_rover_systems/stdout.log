@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/mars_rover_systems/mars_rover_systems.egg-info/PKG-INFO
+writing dependency_links to ../../build/mars_rover_systems/mars_rover_systems.egg-info/dependency_links.txt
+writing entry points to ../../build/mars_rover_systems/mars_rover_systems.egg-info/entry_points.txt
+writing requirements to ../../build/mars_rover_systems/mars_rover_systems.egg-info/requires.txt
+writing top-level names to ../../build/mars_rover_systems/mars_rover_systems.egg-info/top_level.txt
+reading manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+writing manifest file '../../build/mars_rover_systems/mars_rover_systems.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mars_rover_systems/mars_rover_systems.egg-info to /home/user/ros2_ws/install/mars_rover_systems/lib/python3.10/site-packages/mars_rover_systems-0.0.0-py3.10.egg-info
+running install_scripts
+Installing heartbeat_executable script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+Installing heartbeat_executable_2 script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+Installing heartbeat_shutdown_executable script to /home/user/ros2_ws/install/mars_rover_systems/lib/mars_rover_systems
+writing list of installed files to '/home/user/ros2_ws/build/mars_rover_systems/install.log'

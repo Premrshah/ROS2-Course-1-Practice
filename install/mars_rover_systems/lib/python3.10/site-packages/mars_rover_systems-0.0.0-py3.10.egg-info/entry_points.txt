@@ -1,0 +1,6 @@
+[console_scripts]
+heartbeat_executable = mars_rover_systems.heartbeat:main
+heartbeat_executable_2 = mars_rover_systems.heartbeat:main2
+heartbeat_shutdown_executable = mars_rover_systems.heartbeat:main_shutdown
+temperaturemonitor_executable = mars_rover_systems.temperature_monitor:start_monitor
+
