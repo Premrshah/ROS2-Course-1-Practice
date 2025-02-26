@@ -1,0 +1,38 @@
+[3.912s] Invoking command in '/home/user/ros2_ws/src/mars_rover_tasks': PYTHONPATH=/home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/prefix_override:/home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mars_rover_tasks build --build-base /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build install --record /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/install.log --single-version-externally-managed install_data
+[4.271s] running egg_info
+[4.272s] creating build/mars_rover_tasks/mars_rover_tasks.egg-info
+[4.272s] writing build/mars_rover_tasks/mars_rover_tasks.egg-info/PKG-INFO
+[4.273s] writing dependency_links to build/mars_rover_tasks/mars_rover_tasks.egg-info/dependency_links.txt
+[4.273s] writing entry points to build/mars_rover_tasks/mars_rover_tasks.egg-info/entry_points.txt
+[4.273s] writing requirements to build/mars_rover_tasks/mars_rover_tasks.egg-info/requires.txt
+[4.274s] writing top-level names to build/mars_rover_tasks/mars_rover_tasks.egg-info/top_level.txt
+[4.274s] writing manifest file 'build/mars_rover_tasks/mars_rover_tasks.egg-info/SOURCES.txt'
+[4.275s] reading manifest file 'build/mars_rover_tasks/mars_rover_tasks.egg-info/SOURCES.txt'
+[4.277s] writing manifest file 'build/mars_rover_tasks/mars_rover_tasks.egg-info/SOURCES.txt'
+[4.277s] running build
+[4.277s] running build_py
+[4.277s] creating /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build
+[4.277s] creating /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib
+[4.278s] creating /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib/mars_rover_tasks
+[4.278s] copying mars_rover_tasks/__init__.py -> /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib/mars_rover_tasks
+[4.278s] copying mars_rover_tasks/subscriber_obstacle_detector.py -> /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib/mars_rover_tasks
+[4.278s] running install
+[4.278s] running install_lib
+[4.279s] creating /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks
+[4.279s] copying /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib/mars_rover_tasks/__init__.py -> /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks
+[4.279s] copying /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build/lib/mars_rover_tasks/subscriber_obstacle_detector.py -> /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks
+[4.280s] byte-compiling /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks/__init__.py to __init__.cpython-310.pyc
+[4.280s] byte-compiling /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks/subscriber_obstacle_detector.py to subscriber_obstacle_detector.cpython-310.pyc
+[4.281s] running install_data
+[4.281s] creating /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/ament_index
+[4.282s] creating /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/ament_index/resource_index
+[4.282s] creating /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/ament_index/resource_index/packages
+[4.282s] copying resource/mars_rover_tasks -> /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/ament_index/resource_index/packages
+[4.282s] copying package.xml -> /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/mars_rover_tasks
+[4.282s] copying launch/obstacle_detector.launch.py -> /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/share/mars_rover_tasks
+[4.282s] running install_egg_info
+[4.283s] Copying build/mars_rover_tasks/mars_rover_tasks.egg-info to /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks-0.0.0-py3.10.egg-info
+[4.284s] running install_scripts
+[4.306s] Installing subscriber_obstacle_detector_executable script to /home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/mars_rover_tasks
+[4.307s] writing list of installed files to '/home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/install.log'
+[4.340s] Invoked command in '/home/user/ros2_ws/src/mars_rover_tasks' returned '0': PYTHONPATH=/home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/prefix_override:/home/user/ros2_ws/src/mars_rover_tasks/install/mars_rover_tasks/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mars_rover_tasks build --build-base /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/build install --record /home/user/ros2_ws/src/mars_rover_tasks/build/mars_rover_tasks/install.log --single-version-externally-managed install_data
